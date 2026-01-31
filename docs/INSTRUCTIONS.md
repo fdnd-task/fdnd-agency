@@ -22,7 +22,9 @@ Deze leertaak hoort bij Sprint 19 _Free space_. Dit is een leertaak die je in ee
 Deze sprint worden weer verschillende workshops aangeboden:
 
 - [Projectvoorbereiding](projectvoorbereiding.md)
-- 
+- [Breakdown & Planning](breakdown-en-planning.md)
+- [Getting started with SveleteKit](getting-started-with-sveltekit.md)
+- [PE in SvelteKit](pe-in-sveltekit.md)
 
 
 
