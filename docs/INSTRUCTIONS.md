@@ -17,6 +17,8 @@ Je werkt samen met studenten uit o.a.:
 
 Binnen FDND Agency werk je voor echte opdrachtgevers aan echte vraagstukken. Je bouwt door op eerdere sprints én op eerder werk binnen de projecten.
 
+Bekijk hier de projecten van FDND Agency: https://dashboard.fdnd.nl/
+
 ## Doel van deze opdracht
 
 In deze sprint zet je de stap van “studentenopdracht” naar “agency way of working”. Je werkt aan projecten in multidisciplinaire teams en:
