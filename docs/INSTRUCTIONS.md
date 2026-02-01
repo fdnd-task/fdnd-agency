@@ -55,10 +55,10 @@ Je werkt in een multidisciplinair team volgens een iteratieve manier van werken:
   - Retrospectief
 
 - **Scrum manier van werken**
-  - Opstellen en bijhouden van een **product backlog** (issues / user stories) in een GitHub project Board
+  - Opstellen en bijhouden van een **backlog** (issues / user stories) in een GitHub project Board
   - Breakdown van werk in behapbare taken (issues, checklist)
   - Bepalen van **Definition of Ready** en **Definition of Done**
-  - Samen beslissen wat in de sprint past (sprint backlog)
+  - Samen beslissen wat in de sprint past (backlog)
 
 - **Leertaken en documentatie op GitHub**
   - Werken in één GitHub-repositories per project
