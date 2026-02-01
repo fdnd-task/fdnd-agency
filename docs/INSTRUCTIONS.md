@@ -168,18 +168,10 @@ In grote lijnen:
 Deze sprint worden verschillende workshops aangeboden ter ondersteuning van het werk in je projectteam:
 
 - [Projectvoorbereiding](projectvoorbereiding.md)  
-  _Helpt je de opdracht scherp te krijgen, doelen te formuleren en verwachtingen met de opdrachtgever af te stemmen._
-
 - [Breakdown & Planning](breakdown-en-planning.md)  
-  _Leert je hoe je grote opdrachten opknipt in behapbare taken en hoe je een sprint plant._
-
 - [Getting started with SvelteKit](getting-started-with-sveltekit.md)  
-  _Introductie in SvelteKit voor de studenten die nog niet bekend zijn met SvelteKit._
-
 - [PE in SvelteKit](pe-in-sveltekit.md)  
-  _Hoe je progressive enhancement toepast in een SvelteKit-project, met focus op toegankelijkheid en performance voor FDND studenten die al bekend zijn met SvelteKit_
 
----
 
 
 
