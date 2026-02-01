@@ -71,7 +71,7 @@ Je werkt in een multidisciplinair team volgens een iteratieve manier van werken:
   - Afspraken maken over communicatie
   - Afstemmen met studenten uit andere opleidingen (software, CMD, security, media, vormgeving etc.)
 
-### Developmnet Life Cycle
+### Development Life Cycle
 
 #### Analyseren
 
