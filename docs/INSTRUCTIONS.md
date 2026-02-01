@@ -5,8 +5,8 @@ Ontwerp en ontwikkel in multidisciplinaire teams aan doorlopende projecten voor 
 Op deze pagina:
 
 - [Context](#context)
-- [Werkwijze]()
-- [Planning]()
+- [Werkwijze](#werkwijze)
+- [Planning](#planning)
 
 ## Context
 
