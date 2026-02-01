@@ -15,7 +15,7 @@ Je werkt samen met studenten uit o.a.:
 - MBO-vooropleidingen Software Development en Mediavormgeving
 - Trainees van Hack Your Future
 
-Binnen FDND Agency werk je voor echte opdrachtgevers aan echte vraagstukken. Je bouwt door op eerdere sprints én op eerder werk binnen de projecten.
+Binnen FDND Agency werk je, in de studio, voor echte opdrachtgevers aan echte vraagstukken. Je bouwt door op eerdere sprints én op eerder werk binnen de projecten.
 
 Bekijk hier de projecten van FDND Agency: https://dashboard.fdnd.nl/
 
@@ -31,9 +31,9 @@ In deze sprint zet je de stap van “studentenopdracht” naar “agency way of 
   - **Performance**
   - **Progressive Enhancement**
 - Werkt volgens de **conventies** van FDND Agency:
-  - Workflow (Git / GitHub, issues, branches, pull requests)
-  - Code (structuur, naming, formatting)
-  - Design (design system, component library, huisstijl)
+  - [Workflow conventies](https://docs.fdnd.nl/conventies.html#workflow-conventies) (Git / GitHub, issues, branches, pull requests)
+  - [Code conventies](https://docs.fdnd.nl/conventies.html#code-conventies) (structuur, naming, formatting)
+  - [Design conventies](https://docs.fdnd.nl/conventies.html#design-conventies) (huisstijl, component library, design system)
 
 Je laat zien dat je binnen een team professioneel kunt samenwerken, keuzes kunt onderbouwen en gericht kunt itereren.
 
