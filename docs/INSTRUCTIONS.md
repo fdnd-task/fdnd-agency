@@ -7,13 +7,13 @@ Ontwerp en ontwikkel in multidisciplinaire teams aan doorlopende projecten voor 
 Deze leertaak hoort bij Sprint 19 _Free space_. Dit is een leertaak die je in een team uitvoert, binnen **FDND Agency**.  
 Je werkt samen met studenten uit o.a.:
 
-- Ad Frontend Design & Development  
-- Ad Software Development  
-- Ad Cyber Security  
-- Ad Smart Media Production  
-- BSc Communication and Multimedia Design  
-- MBO-vooropleidingen Software Development en Mediavormgeving
-- Trainees van Hack Your Future
+- [Ad Frontend Design & Development](https://fdnd.nl/)  
+- [Ad Software Development](https://www.hva.nl/opleidingen/ad-software-development)  
+- [Ad Cyber Security](https://www.hva.nl/opleidingen/ad-cyber-security)  
+- [Ad Smart Media Production](https://www.hva.nl/opleidingen/ad-smart-media-production)  
+- [BSc Communication and Multimedia Design](https://cmd-amsterdam.nl/) 
+- MBO-vooropleidingen Software Development en Mediavormgeving (van [Mediacollege Amsterdam](https://www.ma-web.nl/) en het [Talland College](https://www.talland.nl/))
+- Trainees van [Hack Your Future](https://hackyourfuture.net/)
 
 Binnen FDND Agency werk je, in de studio, voor echte opdrachtgevers aan echte vraagstukken. Je bouwt door op eerdere sprints én op eerder werk binnen de projecten.
 
