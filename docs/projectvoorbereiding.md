@@ -32,7 +32,7 @@ Voer de workshop uit met het team dat aan hetzelfde Agency‑project werkt, **vi
 
 ---
 
-## 0. Opstarten (online call + Miro)
+## 0. Opstarten (online call + Figma)
 
 1. **Plan een online call** met je team
 2. **Maak een Figma project** aan met in elk geval deze secties:
@@ -41,8 +41,8 @@ Voer de workshop uit met het team dat aan hetzelfde Agency‑project werkt, **vi
    - RAPPE bevindingen
    - Teamafspraken & rollen
    - Vragen voor stand‑up woensdag
-3. Deel de link naar de call en het Miro board in jullie vaste communicatiekanaal.
-4. Vul een Team Canvas in en voeg het toe aan het Miro board
+3. Deel de link naar de call en het Figma proejct in jullie vaste communicatiekanaal.
+4. Vul een Team Canvas in en voeg het toe aan het Figma proejct
 
 ---
 
@@ -55,14 +55,14 @@ Lees met het hele team de `Handover.md` die door het vorige team is achtergelate
 1. **Individueel lezen**
 
    - Iedereen opent `Handover.md` in de repository.
-   - Noteer voor jezelf (bijvoorbeeld in Miro sticky notes of eigen notities):
+   - Noteer voor jezelf (bijvoorbeeld in Figma sticky notes of eigen notities):
      - Wat is de opdracht / het doel van het project?  
      - Wat is al gedaan (features, design, technische keuzes)?  
      - Wat is nog niet af of onzeker?  
 
-2. **Samen bespreken (in Miro)**
+2. **Samen bespreken (in Figma)**
 
-   - Gebruik een Miro‑frame “Handover” met drie kolommen:
+   - Gebruik een Figma‑frame “Handover” met drie kolommen:
      - “We weten zeker dat…”  
      - “We denken dat…”  
      - “We hebben geen idee van…”
@@ -84,7 +84,7 @@ Open tijdens de call samen het GitHub Project board dat bij het FDND Agency proj
   - Welke **epics** zijn er?
   - Welke issues staan op *Done*, *In Progress* of *To Do*?
 
-Je kunt in Miro een klein overzicht tekenen of een screenshot van het board plakken om epics en prioriteiten te markeren.
+Je kunt in Figma een klein overzicht tekenen of een screenshot van het board plakken om epics en prioriteiten te markeren.
 
 ---
 
@@ -150,7 +150,7 @@ Maak voor afwijkingen en verbeterpunten issues, bijvoorbeeld:
 - `Conventies: mappenstructuur herorganiseren`  
 - `Conventies: ESLint/Prettier configureren`
 
-Noteer in Miro kort de belangrijkste “conventie‑problemen” en de bijbehorende issue‑nummers, zodat het team overzicht houdt.
+Noteer in Figma kort de belangrijkste “conventie‑problemen” en de bijbehorende issue‑nummers, zodat het team overzicht houdt.
 
 ---
 
@@ -168,11 +168,11 @@ Toets de huidige staat van de applicatie aan de RAPPE‑principes.
   - screenreader  
   - responsive design mode  
 
-Laat teamleden kort hun bevindingen delen en noteer ze als sticky notes in een Miro‑frame “RAPPE”.
+Laat teamleden kort hun bevindingen delen en noteer ze als sticky notes in een Figma‑frame “RAPPE”.
 
 ### Issues aanmaken
 
-- Groepeer sticky notes in Miro per thema (bijv. Accessibility, Performance, Usability).
+- Groepeer sticky notes in Figma per thema (bijv. Accessibility, Performance, Usability).
 - Maak op basis daarvan issues aan in GitHub, bijvoorbeeld:
   - “Navigatie is niet volledig met toetsenbord te bedienen”  
   - “Performance is slecht op mobiele devices (Lighthouse score onder X)”  
@@ -186,9 +186,9 @@ Laat teamleden kort hun bevindingen delen en noteer ze als sticky notes in een M
 
 Maak duidelijke afspraken over hoe jullie als team werken in deze sprint en leg die **remote** vast.
 
-### Workflow afspreken (in de call + Miro)
+### Workflow afspreken (in de call + Figma)
 
-- Gebruik een Miro‑frame “Teamafspraken” en beantwoord samen:
+- Gebruik een Figma‑frame “Teamafspraken” en beantwoord samen:
   - **Branching:**
     - Werken jullie met `main` + feature branches?  
     - Wanneer mag er naar `main` gemerged worden?
@@ -212,7 +212,7 @@ Maak duidelijke afspraken over hoe jullie als team werken in deze sprint en leg 
 
 ### Vastleggen
 
-- Kies één iemand die de Miro‑afspraken omzet naar een document in de repo:
+- Kies één iemand die de Figma‑afspraken omzet naar een document in de repo:
   - `CONTRIBUTING.md`, of  
   - `team-agreements.md`, of  
   - een sectie in `Handover.md` voor Sprint 19
@@ -230,11 +230,11 @@ Bepaal wie waar verantwoordelijkheid voor neemt in deze sprint.
 - **Product / Client contact** – contactpersoon voor opdrachtgever / docenten, bewaakt scope  
 - **Design / UX lead** – bewaakt UX, UI, toegankelijkheid en consistentie  
 - **Project lead / Scrum master** – bewaakt planning, (remote) stand‑ups en voortgang  
-- **Documentation lead** – houdt README, Handover, issues en Miro‑samenvattingen actueel  
+- **Documentation lead** – houdt README, Handover, issues en Figma‑samenvattingen actueel  
 
 ### Rollen verdelen (remote)
 
-- Gebruik een Miro‑sectie “Teamrollen”.
+- Gebruik een Figma‑sectie “Teamrollen”.
 - Laat iedereen kort in de call aangeven:
   - Waar wil je meer mee oefenen of in groeien?  
   - Welke rol sluit daar het beste bij aan?
@@ -251,9 +251,9 @@ Leg de rolindeling vast in een bestand zoals `team-roles.md` of in `Handover.md`
 
 Sluit de workshop af met het voorbereiden van gerichte vragen voor de stand‑up van woensdag.
 
-### Inventariseren (in Miro)
+### Inventariseren (in Figma)
 
-- Maak een Miro‑frame “Vragen voor stand‑up”.
+- Maak een Figma‑frame “Vragen voor stand‑up”.
 - Kijk naar:
   - `Handover.md`  
   - de epics en issues op het project board  
@@ -285,13 +285,13 @@ Sluit de workshop af met het voorbereiden van gerichte vragen voor de stand‑up
 
 Aan het eind van de workshop heeft het team minimaal:
 
-- `Handover.md` gelezen en in eigen woorden samengevat (in Miro + repo)  
+- `Handover.md` gelezen en in eigen woorden samengevat (in Figma + repo)  
 - een opgeschoond en aangevuld project board (met nieuwe issues voor conventies & RAPPE)  
 - een lokaal draaiend project op elke laptop (of issues als dat niet lukt)  
 - vastgelegde teamafspraken over **remote** workflow en communicatie  
 - verdeelde teamrollen met bijbehorende verantwoordelijkheden  
 - een lijst met concrete vragen voor de stand‑up van woensdag (vastgelegd in een issue)  
-- een Miro board met:
+- een Figma proejct met:
   - Handover‑samenvatting  
   - epics/issues‑overzicht  
   - RAPPE‑bevindingen  
