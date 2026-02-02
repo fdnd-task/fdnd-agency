@@ -41,8 +41,8 @@ Voer de workshop uit met het team dat aan hetzelfde Agency‑project werkt, **vi
    - RAPPE bevindingen
    - Teamafspraken & rollen
    - Vragen voor stand‑up woensdag
-3. Deel de link naar de call en het Figma proejct in jullie vaste communicatiekanaal.
-4. Vul een Team Canvas in en voeg het toe aan het Figma proejct
+3. Deel de link naar de call en het Figma project in jullie vaste communicatiekanaal.
+4. Vul een Team Canvas in en voeg het toe aan het Figma project
 
 ---
 
@@ -291,7 +291,7 @@ Aan het eind van de workshop heeft het team minimaal:
 - vastgelegde teamafspraken over **remote** workflow en communicatie  
 - verdeelde teamrollen met bijbehorende verantwoordelijkheden  
 - een lijst met concrete vragen voor de stand‑up van woensdag (vastgelegd in een issue)  
-- een Figma proejct met:
+- een Figma project met:
   - Handover‑samenvatting  
   - epics/issues‑overzicht  
   - RAPPE‑bevindingen  
