@@ -19,7 +19,7 @@ Aan het einde van deze (remote) workshop heeft ieder teamlid het project lokaal 
 
 Deze sprint werk je aan een bestaand FDND Agency project. In deze (remote) workshop:
 
-- start je een **online teamcall** en een gedeeld **Miro board**
+- start je een **online teamcall** en een gedeeld **Figma project**
 - lees je de `Handover.md` van het vorige team  
 - bekijk je de epics en issues op het project board  
 - installeer je het project lokaal  
