@@ -2,7 +2,7 @@
 # FDND Agency – Projectvoorbereiding (remote)
 
 **Context:**  
-Deze workshop is voor de **dinsdag na de kickoff**. Op dinsdag werken je **remote vanuit huis**.  
+Deze workshop is voor de **dinsdag na de kickoff**. Op dinsdag werk je **remote vanuit huis**.  
 Je werkt dus samen via een **online call** in Teams.
 
 ---
