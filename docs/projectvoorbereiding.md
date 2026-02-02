@@ -35,7 +35,7 @@ Voer de workshop uit met het team dat aan hetzelfde Agency‑project werkt, **vi
 ## 0. Opstarten (online call + Miro)
 
 1. **Plan een online call** met je team
-2. **Maak een Miro board** aan met in elk geval deze secties:
+2. **Maak een Figma project** aan met in elk geval deze secties:
    - Handover – “We weten zeker / denken / hebben geen idee”
    - Project board / epics & issues
    - RAPPE bevindingen
