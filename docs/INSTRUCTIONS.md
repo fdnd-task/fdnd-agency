@@ -169,7 +169,8 @@ Deze sprint worden verschillende workshops aangeboden ter ondersteuning van het 
 
 - [Projectvoorbereiding](projectvoorbereiding.md)  
 - [Breakdown & Planning](breakdown-en-planning.md)  
-- [Getting started with SvelteKit](getting-started-with-sveltekit.md)  
+- [Getting started with SvelteKit](getting-started-with-sveltekit.md)
+- [Git Flow & Conventional Commit](git-flow-en-conventional-commits.md)
 - [PE in SvelteKit](pe-in-sveltekit.md)  
 
 
