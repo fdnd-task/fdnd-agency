@@ -168,7 +168,7 @@ In grote lijnen:
 Deze sprint worden verschillende workshops aangeboden ter ondersteuning van het werk in je projectteam:
 
 - [Projectvoorbereiding](projectvoorbereiding.md)  
-- [Breakdown & Planning](breakdown-en-planning.md)  
+- [Sprint Planning](sprint-planning.md)  
 - [Getting started with SvelteKit](getting-started-with-sveltekit.md)
 - [Git Flow & Conventional Commit](git-flow-en-conventional-commits.md)
 - [Expert review](https://github.com/fdnd-task/fdnd-agency/blob/main/docs/expert-review.md)
