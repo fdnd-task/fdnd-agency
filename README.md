@@ -172,7 +172,6 @@ Deze sprint worden verschillende workshops aangeboden ter ondersteuning van het 
 - [Getting started with SvelteKit](getting-started-with-sveltekit.md)
 - [Git Flow & Conventional Commit](git-flow-en-conventional-commits.md)
 - [Expert review](https://github.com/fdnd-task/fdnd-agency/blob/main/docs/expert-review.md)
-- [PE in SvelteKit](pe-in-sveltekit.md)  
 
 
 
