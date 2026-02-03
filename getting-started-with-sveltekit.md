@@ -1,7 +1,7 @@
 # Getting started with SvelteKit
 
 
-## Demo SveletKit basics
+## Demo SvelteKit basics
 
 
 ## Demo's PE in SvelteKit 
