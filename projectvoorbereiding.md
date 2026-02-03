@@ -102,6 +102,10 @@ Iedereen zet de code lokaal op zijn eigen machine en controleert of het project 
 - Controleer:
   - Start het project zonder errors?
   - Zijn de belangrijkste pagina’s lokaal bereikbaar?
+ 
+### Nieuwe dev branch aanmaken
+
+- Hernoem de huidige dev-branch naar `dev-2526` en maak vanaf die branch een nieuwe `dev` branch aan.
 
 ### Issues aanmaken waar nodig
 
