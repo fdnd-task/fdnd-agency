@@ -10,7 +10,7 @@ Op deze pagina:
 
 ## Context
 
-Deze leertaak hoort bij Sprint 19 _Free space_. Dit is een leertaak die je in een team uitvoert, binnen **FDND Agency**.  
+Deze leertaak hoort bij sprint 19 _Free space_ en sprint 20 _Final Sprint_. Dit is een leertaak die je in een team uitvoert, binnen **FDND Agency**.  
 Je werkt samen met studenten uit o.a.:
 
 - [Ad Frontend Design & Development](https://fdnd.nl/)  
@@ -172,6 +172,7 @@ Deze sprint worden verschillende workshops aangeboden ter ondersteuning van het 
 - [Getting started with SvelteKit](getting-started-with-sveltekit.md)
 - [Git Flow & Conventional Commit](git-flow-en-conventional-commits.md)
 - [Expert review](https://github.com/fdnd-task/fdnd-agency/blob/main/docs/expert-review.md)
+- [Design System](design-system.md)
 
 
 
