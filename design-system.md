@@ -55,7 +55,7 @@ Na deze opdracht kun je:
 
 ### 5. Afstemmen met developers
 - Loop samen door tokens en componenten: hoe landen deze in de code?  
-- Zorg dat minimaal 1–2 kerncomponenten (bijv. Button, Alert) in code op je Design System zijn gebaseerd.  
+- Zorg dat minimaal 1–2 componenten (bijv. Button, Alert) in code op je Design System zijn gebaseerd.  
 - Pas zo nodig tokens/naming aan op basis van dev‑feedback.
 
 ### 6. Documenteren & overdraagbaar maken
@@ -70,11 +70,10 @@ Na deze opdracht kun je:
 ## Deliverables
 
 - Figma‑file met:
-  - **Interface Inventory + UI‑audit** (kort)  
+  - **Interface Inventory + UI‑audit**
   - **Foundations & design tokens** (styles + naming)  
   - **Component library** (met states en beknopte guidelines)  
-  - **Overzichtspagina + “How to use”**  
-- Kort **mapping‑overzicht** design tokens ↔ code (Figma‑frame, Notion of README).  
+  - **Overzichtspagina + “How to use”**   
 - Korte **presentatie/demo** aan Design Chapter / Agency (5–10 minuten).
 
 ---
