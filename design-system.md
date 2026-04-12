@@ -1,4 +1,4 @@
-# Opdracht: Design System voor een bestaand project (CMD @ FDND Agency)
+# Opdracht: Design System voor een bestaand FDND webproject
 
 ## Context
 Je werkt aan een bestaand FDND Agency‑project: er is al een live website én één of meerdere Figma‑files. Het design is in de loop van tijd gegroeid en niet altijd consistent. Met een Design System ga jij:
