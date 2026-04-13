@@ -143,7 +143,7 @@ Bijvoorbeeld:
 
 De globale planning van Sprint 19 & Sprint 20 vind je in het programma van FDND:
 
-👉 <https://programma.fdnd.nl/meesterproef/free-space>  
+👉 <https://programma.fdnd.nl/meesterproef/free-space>   
 👉 <https://programma.fdnd.nl/meesterproef/final-sprint>
 
 In grote lijnen:
